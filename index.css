@@ -6,11 +6,12 @@
 body {background-color: #f6e7d2;
 overflow:hidden;}
 
-
 #center {
 
     text-align: center;
     vertical-align: middle;
+    margin-left: 10px;
+    margin-right:10px;
     }
 
     .title{
