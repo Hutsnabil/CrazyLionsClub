@@ -144,8 +144,8 @@ nav2 a:hover {
       #coin {
         position: relative;
         margin: auto;
-        width: 200px;
-        height: 200px;
+        width: 13rem;
+        height: 13rem;
         cursor: pointer;
         transition: transform 1s ease-in;
         transform-style: preserve-3d;
